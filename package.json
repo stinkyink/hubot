@@ -15,14 +15,14 @@
   },
 
   "dependencies": {
-    "hubot-irc": ">= 0.0.1",
-    "hubot": "2.2.0",
+    "hubot-irc": ">=0.0.1",
+    "hubot": ">=2.3.0",
     "hubot-scripts": ">=2.0.8",
     "optparse": "1.0.3"
   },
   "engines": {
-    "node": "0.8.7",
-    "npm":  "1.1.49"
+    "node": "0.8.x",
+    "npm":  "1.1.x"
   }
 }
 
