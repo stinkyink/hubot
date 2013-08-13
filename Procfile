@@ -1,1 +1,1 @@
-web: bin/hubot -a irc -n stefan-stinky
+web: bin/hubot -a irc -n stefan-stinky --enable-slash
