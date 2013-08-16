@@ -4,5 +4,7 @@
   "bookmark.coffee", 
   "quote.coffee", 
   "sudo.coffee",
-  "commitmessage.coffee"
+  "commitmessage.coffee",
+  "http-say.coffee",
+  "http-post-say.coffee"
 ]
