@@ -4,6 +4,5 @@
   "bookmark.coffee", 
   "quote.coffee", 
   "sudo.coffee",
-  "commitmessage.coffee",
-  "deploy.coffee"
+  "commitmessage.coffee"
 ]
