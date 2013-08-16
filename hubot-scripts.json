@@ -1,1 +1,9 @@
-["redis-brain.coffee", "shipit.coffee", "bookmark.coffee", "quote.coffee", "sudo.coffee"]
+[
+  "redis-brain.coffee", 
+  "shipit.coffee", 
+  "bookmark.coffee", 
+  "quote.coffee", 
+  "sudo.coffee",
+  "commitmessage.coffee",
+  "deploy.coffee"
+]
